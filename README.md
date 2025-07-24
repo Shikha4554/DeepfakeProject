@@ -13,8 +13,6 @@ This project aims to detect **deepfake images** using **Convolutional Neural Net
 ![Screenshot of Deepfake Image Detection](Picture4.png)
 ![Screenshot of Deepfake Image Detection](Picture5.png)
 
-> Replace the above image path with your actual image file, e.g., `/static/img/output.png`
-
 ---
 
 ## 🚀 Features
